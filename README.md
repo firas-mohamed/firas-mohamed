@@ -1,13 +1,12 @@
 
 ## 🚀 About Me
-I'm a soon to be data analyst.financial background 
- Skilled in SQL, Excel, and PowerBI.
+   22 yo old jordanian/romanian 🇯🇴/🇷🇴 , Interested In Data analytics
  
 
+I'm currently learning python 🐍
+
+⚡️ Fun fact addicted to football ⚽
+           
 
 
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/firas-mohamed)
 
