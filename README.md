@@ -7,4 +7,5 @@ I'm currently learning python 🐍
 ⚡️ Fun fact addicted to football ⚽
                         
 
-
+" bodily exercise, when compulsory does no harm to the body; 
+  but knowledge which is acquired under compulsion obtains no hold on the mind. " - plato 📝
